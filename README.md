@@ -1,8 +1,8 @@
-# NOT Gate Quantum Circuit
+# NOT Gate Quantum Circuit (Qiskit)
 
 ## About
 
-A Python program applying a NOT gate to a given input with quantum gates, using Qiskit.
+A Python program applying a NOT gate to a given input with quantum gates, using the Qiskit package.
 
 ## Prerequisites
 
