@@ -11,7 +11,7 @@ A Python program applying a NOT gate to a given input with quantum gates, using 
 
 ## Implementation
 
-CLI:
+Simply download the code and navigate to `src`, then:
 
 - Run `python3 NOTGateCircuit.py` in your terminal if you have MacOS/Linux.
 - Run `python NOTGateCircuit.py` in your terminal if you have Windows.
